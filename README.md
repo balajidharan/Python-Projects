@@ -1,3 +1,3 @@
 # Python-codes
-mini python codes
-A repository of pyhton codes written by me.
+python codes
+A repository of pyhton projects done by me.
